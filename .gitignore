@@ -24,3 +24,9 @@ dist-ssr
 *.sw?
 .vscode.env
 sms-server/.env
+.env
+sms-server/.env
+.env
+sms-server/.env
+.env
+sms-server/.env
